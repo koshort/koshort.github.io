@@ -4,7 +4,7 @@ layout: default
 
 # koshort
 
-한국어 NLP와 관련된 high-level API 프로젝트입니다.
+한국어 NLP를 위한 high-level API 프로젝트입니다.
 
 ## 소개
 
