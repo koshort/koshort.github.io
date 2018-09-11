@@ -11,7 +11,7 @@ Koshort은 현재 총 3가지 파이썬 패키지로 이루어져있으며, 다�
 * Python3를 권장합니다. (pyeunjeon, goorm은 python2에서도 잘 동작합니다!)
 * 쉽고 배우기 쉬운 고수준(High-level) API를 제공합니다.
 
-## Koshort :purple_heart: KoNLPy
+## Koshort ♥ KoNLPy
 [KoNLPy와 Koshort의 통합이 진행되고 있습니다!](https://github.com/konlpy/konlpy/issues/202)
 
 ## [Koshort (코숏): 파이썬 한국어 온라인 트렌드 스트리밍](http://koshort.readthedocs.io/ko/latest/)
